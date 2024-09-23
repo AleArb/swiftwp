@@ -1,0 +1,49 @@
+:root,
+[data-theme='reset'] {
+  --color-accent: #FFC356;
+  --colorPrimary: hsl(0 0% 0%);
+  --colorSecondary: hsl(0 0% 25%);
+  --colorTertiary: hsl(0 0% 50%);
+  --color-background: hsl(0 0% 97.5%);
+  --colorBorder: #f2f2f2;
+  --color-knockout: hsl(0 0% 100%);
+  --color-sale: rgb(225, 20, 0);
+}
+
+$breakpoint-medium: 640px;
+$breakpoint-large: 960px;
+
+
+:root {
+  --fontFamilyBody: 'Brandon Text', sans-serif;
+  --fontFamilyHeading: 'Euclid Flex', sans-serif;
+
+  --fontFeatureSettingsBody: 'ss01';
+  --fontFeatureSettingsHeading: 'ss12';
+
+  --fontSizeFixed1: 36px;
+  --fontSizeFixed2: 28px;
+  --fontSizeFixed3: 24px;
+  --fontSizeFixed4: 20px;
+  --fontSizeFixed5: 16px;
+  --fontSizeFixed6: 15px;
+  --fontSizeFixed7: 13px;
+  --fontSizeFixed8: 11px;
+
+  --lineHeightFixed1: 44px;
+  --lineHeightFixed2: 36px;
+  --lineHeightFixed3: 32px;
+  --lineHeightFixed4: 28px;
+  --lineHeightFixed5: 24px;
+  --lineHeightFixed6: 23px;
+  --lineHeightFixed7: 19px;
+  --lineHeightFixed8: 17px;
+
+  --container-small: 720px;
+  --container-medium: 1080px;
+  --container-large: 1440px;
+
+  --spacing-small: clamp(1rem, 1.25vw + 0.25rem, 2rem);
+  --spacing-medium: clamp(2rem, 2.5vw + 0.5rem, 4rem);
+  --spacing-large: clamp(4rem, 5vw + 1rem, 8rem);
+}

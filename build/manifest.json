@@ -1,0 +1,45 @@
+{
+  "assets/admin.js": {
+    "file": "assets/admin-l0sNRNKZ.js",
+    "name": "admin",
+    "src": "assets/admin.js",
+    "isEntry": true
+  },
+  "assets/admin.scss": {
+    "file": "assets/admin-DP2rzg_V.js",
+    "name": "admin",
+    "src": "assets/admin.scss",
+    "isEntry": true
+  },
+  "assets/fonts/brandon-text-400.woff2": {
+    "file": "assets/brandon-text-400-oUvoFOsb.woff2",
+    "src": "assets/fonts/brandon-text-400.woff2"
+  },
+  "assets/fonts/brandon-text-500.woff2": {
+    "file": "assets/brandon-text-500-BfC_iI14.woff2",
+    "src": "assets/fonts/brandon-text-500.woff2"
+  },
+  "assets/fonts/brandon-text-700.woff2": {
+    "file": "assets/brandon-text-700-DZvUKYc4.woff2",
+    "src": "assets/fonts/brandon-text-700.woff2"
+  },
+  "assets/fonts/euclid-flex-500.woff2": {
+    "file": "assets/euclid-flex-500-CQTzjYxc.woff2",
+    "src": "assets/fonts/euclid-flex-500.woff2"
+  },
+  "assets/fonts/euclid-flex-700.woff2": {
+    "file": "assets/euclid-flex-700-BmTxWD8g.woff2",
+    "src": "assets/fonts/euclid-flex-700.woff2"
+  },
+  "assets/index.js": {
+    "file": "assets/index-CbUfIb9f.js",
+    "name": "index",
+    "src": "assets/index.js",
+    "isEntry": true
+  },
+  "assets/index.scss": {
+    "file": "assets/index-uYiEA1Ji.css",
+    "src": "assets/index.scss",
+    "isEntry": true
+  }
+}
