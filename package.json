@@ -1,0 +1,26 @@
+{
+  "name": "swiftwp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleArb/swiftwp.git"
+  },
+  "author": "Aleksandar Arbutina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleArb/swiftwp/issues"
+  },
+  "homepage": "https://github.com/AleArb/swiftwp#readme",
+  "devDependencies": {
+    "node-sass-glob-importer": "^3.0.2",
+    "sass": "^1.77.6",
+    "vite": "^5.4.2"
+  }
+}
